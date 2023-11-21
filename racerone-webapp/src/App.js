@@ -12,7 +12,7 @@ function App() {
       <JobList />
       <Footer />
     </div>
-  );
+    );
 }
 
 export default App;
